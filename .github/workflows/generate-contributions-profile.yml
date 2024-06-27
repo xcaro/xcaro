@@ -2,7 +2,7 @@ name: Generate Contributions profile
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Check if there are any changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
       - name: Commit & Push
+        if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config user.name "Nhan Vo"
           git config user.email "tinhnhanvh@gmail.com"
