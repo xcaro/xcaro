@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=xcaro&label=fame&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nhanvht-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhanvht/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nhnvo-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhnvo/)
 [![LinkedIn](https://img.shields.io/badge/Telegram-NhnVo-informational.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/NhnVo)
 [![LinkedIn](https://img.shields.io/badge/Gmail-tinhnhanvh@gmail.com-informational.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:tinhnhanvh@gmail.com)
 
