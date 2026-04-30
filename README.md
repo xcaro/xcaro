@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/Telegram-NhnVo-informational.svg?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/NhnVo)
 [![LinkedIn](https://img.shields.io/badge/Gmail-tinhnhanvh@gmail.com-informational.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:tinhnhanvh@gmail.com)
 
- A Software Engineer by day ☼ and a Dreamer by night ☾
+[//]: # (A Software Engineer by day ☼ and a Dreamer by night ☾)
 
 <!--
 **xcaro/xcaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
